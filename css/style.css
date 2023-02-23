@@ -1,0 +1,47 @@
+h2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+table {
+    border: 1px solid;
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+table, th{
+    border: 1px solid;
+    font-family: Arial, Helvetica, sans-serif; 
+
+}
+
+.bottom {
+    border: 1px solid;
+ 
+}
+
+.right {
+    border-right: 1px solid;
+}
+
+
+.center {
+text-align: center;
+
+}
+
+.italicize {
+    font-style: italic;
+}
+
+.fifteen {
+    font-size: 15px;
+}
+
+.twelve {
+    font-size: 12px;
+}
+
+.bold {
+    font-style: bold;
+}
